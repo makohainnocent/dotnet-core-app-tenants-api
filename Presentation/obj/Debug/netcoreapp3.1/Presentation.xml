@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Controllers.V1.ApartmentsController.Create(Application.Features.ApartmentsFeatures.Commands.CreateApartmentsCommand)">
+            <summary>
+            Creates a New Apartments.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ApartmentsController.GetAll">
+            <summary>
+            Gets all Apartments.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ApartmentsController.GetById(System.Int32)">
+            <summary>
+            Gets Apartments Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ApartmentsController.Delete(System.Int32)">
+            <summary>
+            Deletes Apartments Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ApartmentsController.Update(System.Int32,Application.Features.ApartmentsFeatures.Commands.UpdateApartmentsCommand)">
+            <summary>
+            Updates the Apartments Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.PayementsController.Create(Application.Features.PayementsFeatures.Commands.CreatePayementsCommand)">
+            <summary>
+            Creates a New Payements.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.PayementsController.GetAll">
+            <summary>
+            Gets all Payements.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.PayementsController.GetById(System.Int32)">
+            <summary>
+            Gets Payements Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.PayementsController.Delete(System.Int32)">
+            <summary>
+            Deletes Payements Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.PayementsController.Update(System.Int32,Application.Features.PayementsFeatures.Commands.UpdatePayementsCommand)">
+            <summary>
+            Updates the Payements Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ProductController.Create(Application.Features.ProductFeatures.Commands.CreateProductCommand)">
+            <summary>
+            Creates a New Product.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ProductController.GetAll">
+            <summary>
+            Gets all Products.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ProductController.GetById(System.Int32)">
+            <summary>
+            Gets Product Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ProductController.Delete(System.Int32)">
+            <summary>
+            Deletes Product Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.ProductController.Update(System.Int32,Application.Features.ProductFeatures.Commands.UpdateProductCommand)">
+            <summary>
+            Updates the Product Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.RoomsController.Create(Application.Features.RoomsFeatures.Commands.CreateRoomsCommand)">
+            <summary>
+            Creates a New Rooms.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.RoomsController.GetAll">
+            <summary>
+            Gets all Rooms.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.RoomsController.GetById(System.Int32)">
+            <summary>
+            Gets Rooms Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.RoomsController.Delete(System.Int32)">
+            <summary>
+            Deletes Rooms Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.RoomsController.Update(System.Int32,Application.Features.RoomsFeatures.Commands.UpdateRoomsCommand)">
+            <summary>
+            Updates the Rooms Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.TenantsController.Create(Application.Features.TenantsFeatures.Commands.CreateTenantsCommand)">
+            <summary>
+            Creates a New Tenants.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.TenantsController.GetAll">
+            <summary>
+            Gets all Tenants.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.TenantsController.GetById(System.Int32)">
+            <summary>
+            Gets Tenants Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.TenantsController.Delete(System.Int32)">
+            <summary>
+            Deletes Tenants Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.TenantsController.Update(System.Int32,Application.Features.TenantsFeatures.Commands.UpdateTenantsCommand)">
+            <summary>
+            Updates the Tenants Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.UsersController.Create(Application.Features.UsersFeatures.Commands.CreateUsersCommand)">
+            <summary>
+            Creates a New Users.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.UsersController.GetAll">
+            <summary>
+            Gets all Users.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.UsersController.GetById(System.Int32)">
+            <summary>
+            Gets Users Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.UsersController.Delete(System.Int32)">
+            <summary>
+            Deletes Users Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Presentation.Controllers.V1.UsersController.Update(System.Int32,Application.Features.UsersFeatures.Commands.UpdateUsersCommand)">
+            <summary>
+            Updates the Users Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

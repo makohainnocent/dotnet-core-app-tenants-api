@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="3.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
+    <PackageReference Include="Mysql.Data.EntityFrameworkCore" Version="3.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="3.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

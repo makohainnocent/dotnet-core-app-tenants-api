@@ -1,0 +1,9 @@
+/home/makoha/asp.net/fly/Core/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/home/makoha/asp.net/fly/Core/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/home/makoha/asp.net/fly/Core/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.pdb
+/home/makoha/asp.net/fly/Core/Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache

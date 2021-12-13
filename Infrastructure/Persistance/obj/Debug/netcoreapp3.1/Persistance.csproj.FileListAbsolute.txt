@@ -1,0 +1,17 @@
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.csprojAssemblyReference.cache
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.AssemblyInfoInputs.cache
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.AssemblyInfo.cs
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.csproj.CoreCompileInputs.cache
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Persistance.deps.json
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Persistance.runtimeconfig.json
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Persistance.runtimeconfig.dev.json
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Persistance.dll
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Persistance.pdb
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Application.dll
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Domain.dll
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Application.pdb
+/home/makoha/asp.net/fly/Infrastructure/Persistance/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.csproj.CopyComplete
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.dll
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.pdb
+/home/makoha/asp.net/fly/Infrastructure/Persistance/obj/Debug/netcoreapp3.1/Persistance.genruntimeconfig.cache
